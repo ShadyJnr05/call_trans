@@ -22,6 +22,7 @@ if file_ext.lower() != ".wav":
         exit()
 
 # Step 3: Initialize recognizer
+# Step 3: Initialize recognizer
 recognizer = sr.Recognizer()
 
 try:
